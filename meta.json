@@ -8,7 +8,9 @@
             ],
             "verBefore": "0.0.9",
             "verAfter": "0.1.0",
-            "md5": "XXXX"
+            "md5": [
+                "3731e692db3665f9ef64daf931dcd50c"
+            ]
         },
         {
             "patch": [
@@ -17,7 +19,10 @@
             ],
             "verBefore": "0.1.0",
             "verAfter": "0.1.1",
-            "md5": "XXXX"
+            "md5": [
+                "cf4b52efcf535f5b4045d527a8b21a9a",
+                "b5ab6e0f7a2c9d75c31b7d8e5c2d9425"
+            ]
         }
     ]
 }
